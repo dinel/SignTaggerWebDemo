@@ -1,0 +1,85 @@
+/* 
+ * Copyright 2016 dinel.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+/* 
+    Created on : 13-Oct-2016, 12:11:54
+    Author     : dinel
+*/
+
+body {
+    position: relative;
+    padding-bottom: 50em;
+}
+
+.sign {
+    display: inline;
+    border: thin red solid;
+    padding: 5px;
+}
+
+.sign-label {
+    display: inline;
+    vertical-align: sub;
+    font-size: smaller;
+    font-weight: bold;
+}
+
+.token {
+    display: inline;
+}
+
+.sentence {
+    margin-top: .5em;
+}
+
+.voffset5 {
+    margin-top: 50px;
+}
+
+h3 {
+    font-size: larger;
+    font-style: italic;
+}
+
+.affix {
+    width: 400px;
+    border: thin dotted black;
+    padding: 0 1em;
+}
+
+.help-message h1 {
+    font-size: 1.5em;
+}
+
+#help-messages {
+    min-height: 10em;
+    overflow: auto;    
+}
+
+#help-messages .col-md-8 {
+    background-color: #d0edeb;
+    padding: 0 1em 1em 1em;
+}
+
+#help-info {   
+    margin-top: 1em;
+    margin-bottom: 1em;
+    text-align: justify;
+}
+
+#close-help-area {
+    font-size: 2em;
+}
