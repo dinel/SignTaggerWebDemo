@@ -119,9 +119,7 @@ function processText() {
                         <div><input class="filter" type="checkbox" id="chk-CMV1" checked="true"> CMV1
                             <span id="count-CMV1">(0)</span></div>                                        
                         <div><input class="filter" type="checkbox" id="chk-CMV2" checked="true"> CMV2
-                            <span id="count-CMV2">(0)</span></div>                                        
-                        <div><input class="filter" type="checkbox" id="chk-CMV3" checked="true"> CMV3
-                            <span id="count-CMV3">(0)</span></div>                                        
+                            <span id="count-CMV2">(0)</span></div>                                                                               
                         <div><input class="filter" type="checkbox" id="chk-ESCCV" checked="true"> ESCCV
                             <span id="count-ESCCV">(0)</span></div>                                        
                         <div><input class="filter" type="checkbox" id="chk-ESMV" checked="true"> ESMV
@@ -149,8 +147,6 @@ function processText() {
                             <span id="count-CLP">(0)</span></div>
                         <div><input class="filter" type="checkbox" id="chk-CMP" checked="true"> CMP
                             <span id="count-CMP">(0)</span></div>
-                        <div><input class="filter" type="checkbox" id="chk-CMP2" checked="true"> CMP2
-                            <span id="count-CMP2">(0)</span></div>
                         <div><input class="filter" type="checkbox" id="chk-ESMP" checked="true"> ESMP
                             <span id="count-ESMP">(0)</span></div>
                         <div><input class="filter" type="checkbox" id="chk-SSMP" checked="true"> SSMP
@@ -159,8 +155,8 @@ function processText() {
                         <h3>Other</h3>
                         <div><input class="filter" type="checkbox" id="chk-CLQ" checked="true"> CLQ
                             <span id="count-CLQ">(0)</span></div>
-                        <div><input class="filter" type="checkbox" id="chk-COMBINATORY" checked="true"> COMB
-                            <span id="count-COMBINATORY">(0)</span></div>
+                        <div><input class="filter" type="checkbox" id="chk-COMB" checked="true"> COMB
+                            <span id="count-COMB">(0)</span></div>
                         <div><input class="filter" type="checkbox" id="chk-ESCM" checked="true"> ESCM
                             <span id="count-ESCM">(0)</span></div>
                         <div><input class="filter" type="checkbox" id="chk-ESMI" checked="true"> ESMI
@@ -171,7 +167,7 @@ function processText() {
                             <span id="count-SPECIAL">(0)</span></div>
                         <div><input class="filter" type="checkbox" id="chk-SSCM" checked="true"> SSCM
                             <span id="count-SSCM">(0)</span></div>
-                        <div><input class="filter" type="checkbox" id="chk-" checked="true"> SSMI
+                        <div><input class="filter" type="checkbox" id="chk-SSMI" checked="true"> SSMI
                             <span id="count-SSMI">(0)</span></div>
                         <div><input class="filter" type="checkbox" id="chk-STQ" checked="true"> STQ
                             <span id="count-STQ">(0)</span></div>                                                        
