@@ -83,3 +83,17 @@ h3 {
 #close-help-area {
     font-size: 2em;
 }
+
+.help-message .sign {
+    color: red;
+    font-weight: bold;
+    border: none;
+}
+
+.help-message .complex {
+    text-decoration: underline;
+}
+
+.help-message .compound {
+    text-decoration: underline;
+}
