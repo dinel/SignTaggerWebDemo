@@ -21,7 +21,11 @@
 
 body {
     position: relative;
-    padding-bottom: 50em;
+    padding-bottom: 50em;    
+}
+
+#processed-text {
+    line-height: 2em;
 }
 
 .sign {

@@ -57,7 +57,7 @@ function processText() {
     <body>
         <div class="container">
             <div class="row voffset5">
-                <div class="col-md-8">
+                <div id="processed-text" class="col-md-8">
                     <?php
                     processText();
                     ?>
