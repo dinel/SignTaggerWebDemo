@@ -32,7 +32,7 @@ nominal coordinate structure. Other signs of this class are <span class="sign">h
         the <span class="compound">chronically sick <span class="sign">and</span> disabled</span>.
     </li>
 </ul>
-In each case, the compound N-bar is underlined.
+In each case, the compound N-bar is <span class="compound">highlighted</span>.
 </div>
 
 <div id="help-CLN" class="help-message">
@@ -80,7 +80,7 @@ These signs are the right boundaries of nominal subordinate clauses, which modif
 <li><span class="complex">George Carman, QC, defending the newspaper</span><span class="sign">,</span> said the tapes confirmed what The Sun had been told earlier about Grob by his former business partner Chris Vincent.</li>
 <li><span class="complex">His friends, Mark Picard, and Earl Petrie, both 24 and both of Kingston</span><span class="sign">,</span> were jailed for three months and 12 months respectively for their parts in the attack on Mr Lee and a man trying to help him.</li>
 </ul>
-In each case, the superordinate (modified) phrase is underlined.
+In each case, the superordinate (modified) phrase is <span class="complex">highlighted</span>.
 </div>
 <div id="help-SSMN" class="help-message">
 <h1>Information about SSMN</h1>
@@ -90,7 +90,7 @@ These signs are the left boundaries of nominal subordinate clauses, which modify
 <li>Actor Alec Baldwin will play <span class="complex">Mr Conductor<span class="sign">,</span> a new character specially created for Thomas And The Magic Railroad</span>.</li>
 <li>Adrian Shaw, a lorry driver from Malvern, Worcestershire, and <span class="complex">his employer<span class="sign">,</span> Edward Gilder, of Cheltenham, Gloucestershire</span>, deny two charges of animal cruelty.</li>
 </ul>
-In each case, the superordinate (modified) phrase is underlined.
+In each case, the superordinate (modified) phrase is <span class="complex">highlighted</span>.
 </div>
 <div id="help-CCV" class="help-message">
 <h1>Information about CCV</h1>
@@ -101,7 +101,7 @@ Other signs of this class are <span class="sign">highlighted</span> in the examp
 <li><span class="compound">Brian and I wanted to live here<span class="sign">,</span> we wanted to emigrate<span class="sign">, and</span> if I could, I would</span>.</li>
 <li>A paraplegic car crash victim <span class="compound">who needed specialist care <span class="sign">and</span> whose condition could change rapidly</span> would certainly get free care.</li>
 </ul>
-In each case, the compound clause is underlined.
+In each case, the compound clause is <span class="compound">highlighted</span>.
 </div>
 
 <div id="help-SSCCV" class="help-message">
@@ -112,7 +112,7 @@ These signs are the left boundaries of subordinate clauses, which modify or prov
 <li>``That's simply not true,'' said <span class="complex">Grobbelaar$[$,$]$ <span class="sign">who</span> is suing The Sun for libel over allegations of match-fixing</span>.</li>
 <li>The court <span class="complex">heard <span class="sign">that</span> Hobbs struck him with the blunt end of an axe and tied him on the bed next to Mr Brown</span>.</li>
 </ul>
-In each case, the superordinate (modified) phrase is underlined.
+In each case, the superordinate (modified) phrase is <span class="compound">highlighted</span>.
 </div>
 
 <div id="help-CLV" class="help-message">
@@ -156,7 +156,7 @@ These signs are the right boundaries of subordinate clauses, which modify or pro
 <li><span class="complex">A 28-year-old man, who cannot be identified yet on the orders of the judge<span><span class="sign">,</span> denies murder.</li>
 <li>His order forced <span class="complex">Miss Parker, who was then 16</span><span class="sign">,</span> to be detained at a clinic and undergo life-saving treatment for her eating disorder.</li>
 </ul>
-In each case, the superordinate (modified) phrase is underlined.
+In each case, the superordinate (modified) phrase is <span class="compound">highlighted</span>.
 </div>
 
 <div id="help-ESMV" class="help-message">
@@ -167,7 +167,7 @@ These signs are the right boundaries of subordinate clauses, which modify or pro
 <li><span class="complex">Comparing her case with the heart transplant order</span><span class="sign">,</span> Chaye said Child M would one day be thankful for the decision</span>.</li>
 <li><span class="complex">Being put into a psychiatric ward with people with long-term mental illnesses who are shaking with the drugs they are taking<span class="sign">,</span> there's no way you can feel normal and be OK with yourself</span>,'' she told BBC TV's That's Esther programme with Esther Rantzen. </li>
 </ul>
-In each case, the superordinate (modified) phrase is underlined.
+In each case, the superordinate (modified) phrase is <span class="complex">highlighted</span>.
 </div>
 
 <div id="help-SSMV" class="help-message">
@@ -178,7 +178,7 @@ These signs are the left boundaries of subordinate clauses, which modify or prov
 <li>And <span class="complex">he claimed he was engaged in dirty tricks<span class="sign">,</span> keeping a book of people who used to collect envelopes of cash</span>.</li>
 <li><span class="complex">Michael Lawson QC<span class="sign">,</span> prosecuting</span>, said Littlebury bought a 12-bore shotgun after going on the shooting course. </li>
 </ul>
-In each case, the superordinate (modified) phrase is underlined.
+In each case, the superordinate (modified) phrase is <span class="complex">highlighted</span>.
 </div>
 
 <div id="help-CLP" class="help-message">
@@ -400,6 +400,7 @@ These are false signs of syntactic complexity. Other signs of this class are <sp
 <li>''And, say, isn't <span class="false-sign">that</span> some picture?''</li>
 <li>Later <span class="sign">that</span> afternoon, when her boyfriend Ian Brown arrived, the accused attacked him.</li>
 <li>Mr Clarke was at <span class="false-sign">that</span> time unaware Noye had fatally stabbed Stephen, 21, at the M25 and M20 interchange near Swanley, Kent.</li>
+<li></li>
 </ul>
 </div>
 
