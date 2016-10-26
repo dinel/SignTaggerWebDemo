@@ -72,7 +72,7 @@ function processText() {
                         and click the <button type="button" class="btn btn-default btn-sm">
                             <span class="glyphicon glyphicon-question-sign"></span> More info
                         </button> button. Alternatively you can check our 
-                        <a href="http://rgcl.wlv.ac.uk/resources/SignsOfSyntacticComplexity/PotentialCoordinatorAnnotationGuidelinesEdited3.pdf">
+                        <a href="doc/PotentialCoordinatorAnnotationGuidelinesEdited3.pdf">
                             annotation guidelines</a>.</small>
                     </div>
                     
