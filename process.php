@@ -173,7 +173,20 @@ function processText() {
                             <span id="count-STQ">(0)</span></div>                                                        
                         <br/>
                     </div>
-                                                                                            
+
+                    <div style="clear: both; padding-bottom: 1em;"><small>
+                        Found a problem or want to suggest a feature? Visit the
+                        <a href="https://github.com/dinel/SignTaggerWebDemo">Sign Tagger Web Demo</a> and 
+                        <a href="https://github.com/dinel/SignTagger">Sign Tagger</a> github repositories.<br/><br/>
+                        <a href="index.html">Process another text</a>                        
+                        
+                        <?php
+                            include_once 'local_branding.php';
+                        ?>
+                        </small>
+                    </div>
+
+                    
                     </div>
                 </div>
             </div>
