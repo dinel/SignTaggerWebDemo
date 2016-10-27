@@ -400,7 +400,6 @@ These are false signs of syntactic complexity. Other signs of this class are <sp
 <li>''And, say, isn't <span class="false-sign">that</span> some picture?''</li>
 <li>Later <span class="sign">that</span> afternoon, when her boyfriend Ian Brown arrived, the accused attacked him.</li>
 <li>Mr Clarke was at <span class="false-sign">that</span> time unaware Noye had fatally stabbed Stephen, 21, at the M25 and M20 interchange near Swanley, Kent.</li>
-<li></li>
 </ul>
 </div>
 
