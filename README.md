@@ -8,7 +8,7 @@ be quite straightforward to use. A screenshot is presented below.
 
 # Demo
 
-The address of the demo will be added soon.
+You can try the system at [http://rgcl.wlv.ac.uk/demos/SignTaggerWebDemo/](http://rgcl.wlv.ac.uk/demos/SignTaggerWebDemo/)
 
 
 # Screenshot
