@@ -35,6 +35,17 @@
                         <textarea style="width: 100%" name="input-text" rows="15"></textarea><br/>
                         <input type="submit" value="Process text">
                     </form>
+                    
+                    <div style="clear: both; padding-top: 2em; padding-bottom: 1em;"><small>
+                        Found a problem or want to suggest a feature? Visit the
+                        <a href="https://github.com/dinel/SignTaggerWebDemo">Sign Tagger Web Demo</a> and 
+                        <a href="https://github.com/dinel/SignTagger">Sign Tagger</a> github repositories.<br/><br/>
+                        
+                        <?php
+                            include_once 'local_branding.php';
+                        ?>
+                        </small>
+                    </div>
                 </div>
             </div>
         </div>
