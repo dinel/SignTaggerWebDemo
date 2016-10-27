@@ -29,11 +29,9 @@ function processText() {
         fwrite($handle, $input_text);
         fclose($handle);
         
-        $command = "sh /var/www/html/sign/run.sh " . $fileName;
-        
-        #$command = "cat out.html";
-    
+        $command = "sh run.sh " . $fileName;            
         system($command);    
+        
         unlink($fileName);
     }        
 }
@@ -174,8 +172,8 @@ function processText() {
                         <div><input class="filter" type="checkbox" id="chk-STQ" checked="true"> STQ
                             <span id="count-STQ">(0)</span></div>                                                        
                         <br/>
-                    </div>    
-                                                                        
+                    </div>
+                                                                                            
                     </div>
                 </div>
             </div>
